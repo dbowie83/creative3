@@ -11,7 +11,7 @@
     <img class="p-4 w-1/2" src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2008/09/21/beatles10b.jpg?width=700&quality=85&auto=format&fit=max&s=cfe927b7971162b69e66ee6a1b78a92f" alt="">
     </div>
     <footer class="bg-dark text-white p-4">
-      <a href="https://github.com/dbowie83/beatles">View on Github </a>
+      <a href="https://github.com/dbowie83/creative3">View on Github </a>
     </footer>
   </div>
 </template>

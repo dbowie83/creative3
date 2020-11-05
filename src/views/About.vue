@@ -15,7 +15,7 @@
       </div>
 
       <footer class="bg-dark text-white p-4">
-        <a href="https://github.com/dbowie83/beatles">View on Github</a>
+        <a href="https://github.com/dbowie83/creative3">View on Github</a>
       </footer>
     </div>
   </div>
